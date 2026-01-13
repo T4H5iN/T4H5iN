@@ -64,8 +64,8 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> <samp>Favourite Projects I've Built</samp>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" /> <samp>AI Resume Builder</samp>
-> <samp>*A full-stack app that writes resumes for you.*</samp>
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" /> <samp>CareerPath</samp>
+> <samp>*A full-stack app that writes resumes for you and helps you find job that match your skill.*</samp>
 >
 > <samp>I wanted to see if I could make an app that generates content automatically. It uses **React, Flask**, and the **Google Gemini API**.</samp>
 
