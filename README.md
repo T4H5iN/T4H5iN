@@ -21,7 +21,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> <samp>What I'm Up To</samp>
 
 * <samp>**Studying:** Machine Learning, Cloud Computing, System Design, HCI.</samp>
-* <samp>**Thesis:** A Comparative Study of Accessibility in Standard and Adaptive User Interfaces for Individuals with Color Vision Deficiency.</samp>
+* <samp>**Thesis:** Doing my academic thesis on HCI.</samp>
 * <samp>**Learning:** Exploring the world of DSA. Learning various Machine Learning Algorithms.</samp>
 * <samp>**Club Life:** Managing the web presence for the <b><a href="https://buprc.tech/">BUP Robotics Club</a></b>.</samp>
 
