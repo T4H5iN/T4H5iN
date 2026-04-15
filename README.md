@@ -20,9 +20,9 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> <samp>What I'm Up To</samp>
 
-* <samp>**Studying:** Human-Computer Interaction (HCI) & Web Engineering.</samp>
-* <samp>**Current Project:** Building an "Adaptive UI" for colorblind users (My Thesis).</samp>
-* <samp>**Currently Learning:** Exploring the world of DSA. Seriously theres no end to it.</samp>
+* <samp>**Studying:** Machine Learning, Cloud Computing, System Design, HCI.</samp>
+* <samp>**Thesis:** A Comparative Study of Accessibility in Standard and Adaptive User Interfaces for Individuals with Color Vision Deficiency.</samp>
+* <samp>**Learning:** Exploring the world of DSA. Learning various Machine Learning Algorithms.</samp>
 * <samp>**Club Life:** Managing the web presence for the <b><a href="https://buprc.tech/">BUP Robotics Club</a></b>.</samp>
 
 <br/>
@@ -64,10 +64,10 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> <samp>Favourite Projects I've Built</samp>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" /> <samp>CareerPath</samp>
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" /> <samp>CareerPath AI</samp>
 > <samp>*A full-stack app that writes resumes for you and helps you find job that match your skill.*</samp>
 >
-> <samp>I wanted to see if I could make an app that generates content automatically. It uses **React, Flask**, and the **Google Gemini API**.</samp>
+> <samp>I wanted to see if I could make an app that generates resume automatically on-the-go including matching jobs based on skills extracted from resume. It uses **React, Flask**, and the **Google Gemini API**.</samp>
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Ribbon.png" alt="Heart" width="20" height="20" /> <samp>Humanity First Foundation | https://hffglobal.org/</samp>
 > <samp>*A charity website with secure payments.*</samp>
